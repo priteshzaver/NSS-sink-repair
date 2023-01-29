@@ -1,0 +1,36 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maude"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    }
+  ],
+  "completions": [],
+  "requests": [
+    {
+      "id": 1,
+      "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
+      "address": "34445 Bianka Ports",
+      "budget": 400,
+      "neededBy": "2021-08-27"
+    },
+    {
+      "description": "leaky faucet repair",
+      "address": "1000 infinity way",
+      "budget": "900.00",
+      "neededBy": "2022-12-13",
+      "id": 2
+    },
+    {
+      "description": "leaks",
+      "address": "100 fake street",
+      "budget": "10.00",
+      "neededBy": "2022-12-14",
+      "id": 3
+    }
+  ]
+}
